@@ -1,2 +1,3 @@
 this is a newfile added
 content added
+added few more points
